@@ -33,9 +33,9 @@ services:
       - key: DB_POSTGRESDB_SCHEMA
         value: public
       - key: WEBHOOK_URL
-        value: https://your-n8n-app.onrender.com/
+        value: https://pro-server.onrender.com/
       - key: N8N_ENCRYPTION_KEY
-        value: YOUR_ENCRYPTION_KEY_HERE
+        value: A7xB2cM9LpQ3rN6dT8eV1wZ4sK0YjUh5
       - key: GENERIC_TIMEZONE
         value: America/Sao_Paulo
       - key: TZ
